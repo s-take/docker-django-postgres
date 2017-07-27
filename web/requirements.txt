@@ -1,0 +1,7 @@
+django
+djangorestframework
+markdown
+django-filter
+django-bootstrap-form
+djangorestframework-jwt
+psycopg2
